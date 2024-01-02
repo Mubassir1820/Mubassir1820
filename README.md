@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mubassir Habib</h1>
 <h3 align="center">Software Developer | Artificial Intelligence / Machine Learning enthusiast</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/39142850/67110554-fdea5400-f20d-11e9-834a-d459a612b7b1.gif">
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/39142850/67110554-fdea5400-f20d-11e9-834a-d459a612b7b1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mubassir1820&label=Profile%20views&color=0e75b6&style=flat" alt="mubassir1820" /> </p>
 
