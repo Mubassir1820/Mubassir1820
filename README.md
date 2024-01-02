@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Titanic-Survival-Prediction-using-Machine-Learning](https://github.com/Mubassir1820/PyTorch-fundamentals)
+- 🔭 I’m currently working on [Django-Specialization](https://github.com/Mubassir1820/Django-Specialization)
 
 - 🌱 I’m currently learning **Pytorch**
 
