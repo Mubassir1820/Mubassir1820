@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Django-Specialization](https://github.com/Mubassir1820/Django-Specialization)
 
-- 🌱 I’m currently learning **Pytorch**
+- 🌱 I’m currently learning **Django**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mubassir1820](https://github.com/Mubassir1820)
 
