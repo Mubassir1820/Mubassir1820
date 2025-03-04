@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Mubassir Habib</h1>
 <h3 align="center">Software Developer | Artificial Intelligence / Machine Learning enthusiast</h3>
+<p>I'm a Python developer specializing in backend development. I work with FastAPI, Django REST Framework (DRF), and SQLAlchemy to build efficient APIs and authentication systems. I have experience designing databases with PostgreSQL and handling migrations using Alembic.
+
+Currently, I'm working on integrating authentication with JWT tokens and refining API structures based on Figma designs. Passionate about writing clean, scalable code and continuously learning new technologies!
+
+🚀 Tech Stack: Python | FastAPI | Django | DRF | PostgreSQL | SQLAlchemy | Alembic
+
+Let's connect and build something awesome! 😃</p>
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/39142850/67110554-fdea5400-f20d-11e9-834a-d459a612b7b1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mubassir1820&label=Profile%20views&color=0e75b6&style=flat" alt="mubassir1820" /> </p>
